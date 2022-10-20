@@ -1,4 +1,5 @@
 print("Rock! Paper! Scissor! : )")
+print("Rock! Paper! Scissor! : )")
 
 # Library for generating random values
 import random
